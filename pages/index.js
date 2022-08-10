@@ -16,7 +16,8 @@ export default function Home() {
           Elliot beat - The best beats in the universe!
         </h1>
 
-      <p>The greatest beats - køb det mand! </p>
+        <p>The greatest beats - køb det mand! </p>
+        <iframe src="https://player.beatstars.com/?storeId=131749" width="100%" height="800" style="max-width:1024px;"> -- none -- </iframe>
 
       
       </main>
