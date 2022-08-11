@@ -13,8 +13,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Buy beats
+          BUY BEATS NOW
         </h1>
+   
 
         <iframe src="https://player.beatstars.com/?storeId=131749" width="100%" height="800px"  />
 
