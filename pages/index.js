@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          BUY BEATS NOW!
+          BUY BEATS NOW
         </h1>
    
 
